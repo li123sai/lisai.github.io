@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Mr Li</title>
+  <icon>https://www.gravatar.com/avatar/b940a121127826e2cbba3e2b8123f6cc</icon>
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://li123sai.github.io/"/>
+  <updated>2018-03-17T12:02:13.772Z</updated>
+  <id>https://li123sai.github.io/</id>
+  
+  <author>
+    <name>Li Sai</name>
+    <email>leesaigg.@gmail.com</email>
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>基于以太坊的私有链</title>
+    <link href="https://li123sai.github.io/2018/03/11/test/"/>
+    <id>https://li123sai.github.io/2018/03/11/test/</id>
+    <published>2018-03-10T18:53:40.923Z</published>
+    <updated>2018-03-17T12:02:13.772Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="基于以太坊的私有链"><a href="#基于以太坊的私有链" class="headerlink" title="基于以太坊的私有链"></a>基于以太坊的私有链</h1><h2 id="搭建环境"><a href="#搭建环境" class="headerlink" title="搭建环境"></a>搭建环境</h2><h3 id="1-安装geth"><a href="#1-安装geth" class="headerlink" title="1.安装geth"></a>1.安装geth</h3><p><a href="https://geth.ethereum.org/downloads/" target="_blank" rel="noopener">geth官方下载地址</a> 或 <a href="http://ethfans.org/wikis/Ethereum-Geth-Mirror" target="_blank" rel="noopener">国内镜像</a><br>在命令行中输入 geth help 可查看geth的用法</p><h3 id="2-安装cygwin"><a href="#2-安装cygwin" class="headerlink" title="2.安装cygwin"></a>2.安装cygwin</h3><p>window需要下载cygwin模拟linux环境<br><a href="https://cygwin.com/install.html" target="_blank" rel="noopener">cygwin官方下载地址</a></p><p>安装使用说明<a href="http://www.33lc.com/article/7276.html" target="_blank" rel="noopener">cygwin安装教程图解</a></p><ul><li>第一行</li><li>第二行</li></ul><ol><li>第一行</li><li>第二行</li></ol><p><strong>加粗</strong><br>_斜体_</p><p><a href="https://www.baidu.com/" target="_blank" rel="noopener">百度连接</a>  </p><p><img src="../images/github.jpg" alt="image">  </p><figure class="highlight sql"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">SELECT</span> * <span class="keyword">FROM</span> <span class="keyword">SYSTEM_USER</span> ;</span><br></pre></td></tr></table></figure>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h1 id=&quot;基于以太坊的私有链&quot;&gt;&lt;a href=&quot;#基于以太坊的私有链&quot; class=&quot;headerlink&quot; title=&quot;基于以太坊的私有链&quot;&gt;&lt;/a&gt;基于以太坊的私有链&lt;/h1&gt;&lt;h2 id=&quot;搭建环境&quot;&gt;&lt;a href=&quot;#搭建环境&quot; class=&quot;headerli
+      
+    
+    </summary>
+    
+    
+      <category term="以太坊" scheme="https://li123sai.github.io/tags/%E4%BB%A5%E5%A4%AA%E5%9D%8A/"/>
+    
+      <category term="私链" scheme="https://li123sai.github.io/tags/%E7%A7%81%E9%93%BE/"/>
+    
+      <category term="区块链" scheme="https://li123sai.github.io/tags/%E5%8C%BA%E5%9D%97%E9%93%BE/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="https://li123sai.github.io/2018/03/11/hello-world/"/>
+    <id>https://li123sai.github.io/2018/03/11/hello-world/</id>
+    <published>2018-03-10T18:11:49.101Z</published>
+    <updated>2018-03-10T18:11:49.101Z</updated>
+    
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="noopener">Deployment</a></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
