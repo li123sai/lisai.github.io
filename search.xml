@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title><![CDATA[基于以太坊的私有链]]></title>
+    <url>%2F2018%2F03%2F11%2Ftest%2F</url>
+    <content type="text"><![CDATA[&#x57FA;&#x4E8E;&#x4EE5;&#x592A;&#x574A;&#x7684;&#x79C1;&#x6709;&#x94FE;&#x642D;&#x5EFA;&#x73AF;&#x5883;1.&#x5B89;&#x88C5;gethgeth&#x5B98;&#x65B9;&#x4E0B;&#x8F7D;&#x5730;&#x5740; &#x6216; &#x56FD;&#x5185;&#x955C;&#x50CF;&#x5728;&#x547D;&#x4EE4;&#x884C;&#x4E2D;&#x8F93;&#x5165; geth help &#x53EF;&#x67E5;&#x770B;geth&#x7684;&#x7528;&#x6CD5; 2.&#x5B89;&#x88C5;cygwinwindow&#x9700;&#x8981;&#x4E0B;&#x8F7D;cygwin&#x6A21;&#x62DF;linux&#x73AF;&#x5883;cygwin&#x5B98;&#x65B9;&#x4E0B;&#x8F7D;&#x5730;&#x5740; &#x5B89;&#x88C5;&#x4F7F;&#x7528;&#x8BF4;&#x660E;cygwin&#x5B89;&#x88C5;&#x6559;&#x7A0B;&#x56FE;&#x89E3; &#x767E;&#x5EA6;&#x8FDE;&#x63A5; L2Dwidget.init({});]]></content>
+      <categories>
+        <category>区块链</category>
+      </categories>
+      <tags>
+        <tag>以太坊</tag>
+        <tag>私链</tag>
+        <tag>区块链</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[Hello World]]></title>
+    <url>%2F2018%2F03%2F11%2Fhello-world%2F</url>
+    <content type="text"><![CDATA[Welcome to Hexo! This is your very first post. Check documentation for more info. If you get any problems when using Hexo, you can find the answer in troubleshooting or you can ask me on GitHub. Quick StartCreate a new post1$ hexo new &quot;My New Post&quot; More info: Writing Run server1$ hexo server More info: Server Generate static files1$ hexo generate More info: Generating Deploy to remote sites1$ hexo deploy More info: Deployment L2Dwidget.init({});]]></content>
+  </entry>
+</search>
