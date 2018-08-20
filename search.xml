@@ -1,17 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title><![CDATA[Eureka搭建防坑]]></title>
-    <url>%2F2018%2F07%2F11%2FEureka%E6%90%AD%E5%BB%BA%E9%98%B2%E5%9D%91%2F</url>
-    <content type="text"><![CDATA[SpringCloud2.0&#x4E0B;Eureka&#x642D;&#x5EFA;&#x4F7F;&#x7528;IDE&#x521B;&#x5EFA;Eureka &#x5B89;&#x88C5; pom&#x5C55;&#x793A; &#x6309;&#x7167;&#x8FD9;&#x79CD;&#x65B9;&#x5F0F;&#x642D;&#x5EFA;&#x5B8C;&#x6210;,&#x9879;&#x76EE;&#x6B63;&#x5E38;&#x8FD0;&#x884C;,&#x4F46;&#x662F;&#x8BBF;&#x95EE;&#x9875;&#x9762;&#x65F6;.&#x5C3C;&#x739B;.&#x62A5;&#x9519; &#x518D;&#x7F51;&#x4E0A;&#x627E;&#x4E86;&#x5F88;&#x591A;&#x65B9;&#x6CD5;.&#x6709;&#x8BF4;freemarker-2.3.27-incubating&#x7684;jar&#x5305;&#x95EE;&#x9898;,&#x914D;&#x7F6E;&#x95EE;&#x9898;&#x5C1D;&#x8BD5;&#x540E;&#x90FD;&#x4E0D;&#x884C; &#x89E3;&#x51B3;&#x65B9;&#x6CD5; &#x53BB;SpringCloud&#x5B98;&#x7F51;&#x67E5;&#x770B;&#x4F9D;&#x8D56;,&#x77AC;&#x95F4;&#x660E;&#x767D;. &#x5C06;&#x7248;&#x672C;&#x66FF;&#x6362;&#x95EE;&#x9898;&#x89E3;&#x51B3;. L2Dwidget.init({});]]></content>
+    <title><![CDATA[Telegram电报机器人使用]]></title>
+    <url>%2F2018%2F08%2F20%2FTelegram%E7%94%B5%E6%8A%A5%E6%9C%BA%E5%99%A8%E4%BA%BA%E4%BD%BF%E7%94%A8%2F</url>
+    <content type="text"><![CDATA[Telegram&#x7535;&#x62A5;&#x673A;&#x5668;&#x4EBA;&#x4F7F;&#x7528;&#x521B;&#x5EFA;&#x673A;&#x5668;&#x4EBA;BotFarther &#x521B;&#x5EFA;&#x4E00;&#x4E2A;bot,&#x548C;botfarther&#x5BF9;&#x8BDD;&#x8F93;&#x5165;1/newbot &#x6CE8;&#x610F;&#x673A;&#x5668;&#x4EBA;&#x7684;&#x540D;&#x5B57;&#x9700;&#x8981;_bot&#x7ED3;&#x5C3E;&#x751F;&#x6210;&#x7684;api token&#x9700;&#x8981;&#x8BB0;&#x4E0B;,&#x540E;&#x7EED;&#x64CD;&#x4F5C;&#x4F1A;&#x4F7F;&#x7528; &#x5728;group&#x4E2D;&#x53D1;&#x9001;&#x6D88;&#x606F;1https://api.telegram.org/botxxx:xxx/getUpdates 11https://api.telegram.org/bot&#x4F60;&#x7684;token/getUpdates 21https://api.telegram.org/bot&#x4F60;&#x7684;token/sendMessage?chat_id=-294455394&amp;text=zhengjiaong 31https://api.telegram.org/bot&#x4F60;&#x7684;token/setWebhook?url=https://&#x4F60;&#x7684;&#x57DF;&#x540D; 41https://api.telegram.org/bot&#x4F60;&#x7684;token/getWebhookInfo L2Dwidget.init({});]]></content>
       <categories>
-        <category>SpringCloud</category>
+        <category>Telegaram</category>
       </categories>
       <tags>
-        <tag>SpringCloud</tag>
-        <tag>Eureka</tag>
-        <tag>分布式</tag>
+        <tag>Telegram</tag>
+        <tag>聊天交互</tag>
       </tags>
+  </entry>
+  <entry>
+    <title></title>
+    <url>%2F2018%2F07%2F11%2FEureka%E6%90%AD%E5%BB%BA%E9%98%B2%E5%9D%91%2F</url>
+    <content type="text"><![CDATA[title: Eureka&#x642D;&#x5EFA;&#x9632;&#x5751; SpringCloud2.0&#x4E0B;Eureka&#x642D;&#x5EFA;&#x4F7F;&#x7528;IDE&#x521B;&#x5EFA;Eureka &#x5B89;&#x88C5; pom&#x5C55;&#x793A; &#x6309;&#x7167;&#x8FD9;&#x79CD;&#x65B9;&#x5F0F;&#x642D;&#x5EFA;&#x5B8C;&#x6210;,&#x9879;&#x76EE;&#x6B63;&#x5E38;&#x8FD0;&#x884C;,&#x4F46;&#x662F;&#x8BBF;&#x95EE;&#x9875;&#x9762;&#x65F6;.&#x5C3C;&#x739B;.&#x62A5;&#x9519; &#x518D;&#x7F51;&#x4E0A;&#x627E;&#x4E86;&#x5F88;&#x591A;&#x65B9;&#x6CD5;.&#x6709;&#x8BF4;freemarker-2.3.27-incubating&#x7684;jar&#x5305;&#x95EE;&#x9898;,&#x914D;&#x7F6E;&#x95EE;&#x9898;&#x5C1D;&#x8BD5;&#x540E;&#x90FD;&#x4E0D;&#x884C; &#x89E3;&#x51B3;&#x65B9;&#x6CD5; &#x53BB;SpringCloud&#x5B98;&#x7F51;&#x67E5;&#x770B;&#x4F9D;&#x8D56;,&#x77AC;&#x95F4;&#x660E;&#x767D;. &#x5C06;&#x7248;&#x672C;&#x66FF;&#x6362;&#x95EE;&#x9898;&#x89E3;&#x51B3;. L2Dwidget.init({});]]></content>
   </entry>
   <entry>
     <title><![CDATA[Nginx入门]]></title>
